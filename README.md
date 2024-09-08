@@ -50,4 +50,4 @@ Provide a structured and collaborative environment for sharing threat intelligen
   - `AuditLogs`: Action logs (id, user_id, action_type, timestamp).
   - `AccessControls`: User access permissions (id, user_id, entity_id, permission_level).
  
-More info about the idea [here]([URL](https://en.wikipedia.org/wiki/MISP_Threat_Sharing)) and [here]([URL](https://www.misp-project.org/))
+More info about the idea [here](https://en.wikipedia.org/wiki/MISP_Threat_Sharing) and [here](https://www.misp-project.org/)
