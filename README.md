@@ -2,8 +2,6 @@
 A web-based application for sharing cybersecurity threat data (e.g., malware indicators, phishing attacks) securely between users and organizations.
 
 
-# Cyber Threat Intelligence Sharing Platform
-
 
 ## Core Purpose
 
